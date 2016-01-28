@@ -1,7 +1,7 @@
 name: aurallion
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.37763
+layout_spectrum: 0.792635208228603
+typography_spectrum: 0.4246
 title: aurallion pictures
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#cfded9'
-    - '#b0c0b6'
-    - '#23282e'
-    - '#5a5d54'
-    - '#788073'
+    - '#e5e9e8'
+    - '#131e1a'
+    - '#314b42'
+    - '#fa7900'
+    - '#b19013'
   brandStrength: 0.5
   lightness: 0.4263944097328931
   saturation: 0.6489098435267806

@@ -1,0 +1,29 @@
+name: aurallion
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.4246
+title: aurallion pictures
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#e5e9e8'
+    - '#131e1a'
+    - '#314b42'
+    - '#fa7900'
+    - '#b19013'
+  brandStrength: 0.5
+  lightness: 0.4263944097328931
+  saturation: 0.6489098435267806
+  rhythmicContrast: 0.3820370768662542
+purpose: []
